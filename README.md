@@ -1,1 +1,1 @@
-# udacityAndroidDevJava
+# udacityAndroidDevJavaSunshine
